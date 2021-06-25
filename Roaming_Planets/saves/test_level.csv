@@ -1,0 +1,6 @@
+box, 1920, 1080
+player, 500, 500, 0, 0, 12000, Player_left
+moon, 200, 200, 0, -1, 5000
+moon, 400, 200, 0, 5, 8000
+player, 1000, 500, 0, 0, 500, Player_right
+skyscape, 1000, 10000, 5

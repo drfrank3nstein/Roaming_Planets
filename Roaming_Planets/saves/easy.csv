@@ -1,0 +1,6 @@
+box, 1920, 1080
+player,500,200,0,0,2000,Player_up_left
+player,1420,200,0,0,2000,Player_up_right
+player,500,880,0,0,2000,Player_down_left
+player,1420,880,0,0,2000,Player_down_right
+skyscape,800,40000,50

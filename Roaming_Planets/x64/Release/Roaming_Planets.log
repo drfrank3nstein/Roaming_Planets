@@ -1,0 +1,82 @@
+﻿  Arena.cpp
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(93,47): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(93,27): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(94,47): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(94,27): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(92,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(99,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(134,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(137,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(140,21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(139,21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(145,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(144,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(159,32): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(297,55): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(298,55): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(300,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(300,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(315,22): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\franc\source\repos\Roaming_Planets\Roaming_Planets\Arena.cpp(328,112): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 659 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Roaming_Planets.vcxproj -> C:\Users\franc\source\repos\Roaming_Planets\x64\Release\Roaming_Planets.exe

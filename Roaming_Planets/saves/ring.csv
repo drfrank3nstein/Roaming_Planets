@@ -1,0 +1,6 @@
+ring, 1000,
+player,-500,500,0,0,2000,Player_up_left
+player,500,500,0,0,2000,Player_up_right
+player,-500,500,0,0,2000,Player_down_left
+player,500,-500,0,0,2000,Player_down_right
+skyscape,1000,20000,50
